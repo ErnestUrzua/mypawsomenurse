@@ -1,0 +1,11 @@
+.brown {
+    color: #d3a55c;
+}
+
+.pink {
+    color: pink
+}
+
+.bg-brown {
+    background-image: linear-gradient(#d3a55c, white);
+}
