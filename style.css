@@ -1,19 +1,19 @@
 .brown {
-    color: #d3a55c;
+    color: #DFC2BE;
 }
 
 .pink {
-    color: pink
+    color: #FFA7D0
 }
 
 .bg-brown {
-    background: rgba(161, 123, 61, 0.7);
+    background: #DFC2BE;
 }
 
 a {
-    color: pink;
+    color: #FFA7D0;
 }
 
 a:hover {
-    color: gray;
+    color: #F670D7;
 }
