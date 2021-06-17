@@ -1,3 +1,7 @@
+.white {
+    color: white;
+}
+
 .brown {
     color: #DFC2BE;
 }
@@ -50,7 +54,7 @@ a:hover {
 
 body {
     margin: 0;
-    font: normal 75% Arial, Helvetica, sans-serif;
+    font: monserrat;
 }
 
 canvas {
